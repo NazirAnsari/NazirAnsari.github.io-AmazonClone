@@ -1,7 +1,7 @@
 # AmazonClone
 
 This project is a clone of the popular e-commerce website Amazon, implemented using HTML and CSS. The purpose of this clone is to demonstrate the design and layout of the Amazon website, showcasing various components and features found on the original site.
-
+This is now only for desktop Version.
 #Installation
 To install and run the Amazon Clone locally, follow these steps:
 
